@@ -33,7 +33,7 @@
 
 I’m a **Web Developer & UI/UX Designer** based in **Bangladesh** with a passion for building modern, responsive, and user-friendly web applications. Over the past few years, I’ve successfully **delivered projects to clients on Upwork, Fiverr, and local markets**, helping businesses bring their ideas to life through clean code and modern design.  
 
-🌐 **Portfolio Website:** [touhidarahimu.dev](#)  
+<!--🌐 **Portfolio Website:** [touhidarahimu.dev](#) --> 
 
 ---
 
@@ -52,9 +52,9 @@ I design modern, intuitive interfaces for web & mobile apps.
 ## 📫 Connect with Me  
 - 📧 Email: **touhidarahimu@gmail.com**  
 - 🌍 Portfolio / Linktree: [Linktree](https://linktr.ee/touhidara_himu)  
-- 🌐 Portfolio Website: [touhidarahimu.dev](#)  
+-<!-- 🌐 Portfolio Website: [touhidarahimu.dev](#) -->
 - 💼 LinkedIn: [Touhid Ara Himu](https://www.linkedin.com/in/touhid-ara-himu-794891298/)  
-- 📹 YouTube: [Himu Talk's TeksFusion](https://www.youtube.com/@Himu_TeksFusion)  
+- 📹 YouTube: [Himu Talk's TeksFusion](https://www.youtube.com/@touhidarahimu)  
 
 ⭐️ *Let’s collaborate and create something amazing together!*  
   
