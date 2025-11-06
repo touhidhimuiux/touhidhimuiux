@@ -52,7 +52,7 @@ I design modern, intuitive interfaces for web & mobile apps.
 ## 📫 Connect with Me  
 - 📧 Email: **touhidarahimu@gmail.com**  
 - 🌍 Portfolio / Linktree: [Linktree](https://linktr.ee/touhidara_himu)  
--<!-- 🌐 Portfolio Website: [touhidarahimu.dev](#) -->
+<!-- 🌐 Portfolio Website: [touhidarahimu.dev](#) -->
 - 💼 LinkedIn: [Touhid Ara Himu](https://www.linkedin.com/in/touhid-ara-himu-794891298/)  
 - 📹 YouTube: [Himu Talk's TeksFusion](https://www.youtube.com/@touhidarahimu)  
 
