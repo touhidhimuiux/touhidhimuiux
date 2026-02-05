@@ -50,11 +50,9 @@ I design modern, intuitive interfaces for web & mobile apps.
 ---
 
 ## 📫 Connect with Me  
-- 📧 Email: **touhidarahimu@gmail.com**  
-- 🌍 Portfolio / Linktree: [Linktree](https://linktr.ee/touhidara_himu)  
-<!-- 🌐 Portfolio Website: [touhidarahimu.dev](#) -->
+- 📧 Email: **touhidarahimuiux@gmail.com**  
+- 🌐 Portfolio Website: [TouhidArahimuiux](https://himu-portfolio-two.vercel.app/)
 - 💼 LinkedIn: [Touhid Ara Himu](https://www.linkedin.com/in/touhid-ara-himu-794891298/)  
-- 📹 YouTube: [Himu Talk's TeksFusion](https://www.youtube.com/@touhidarahimu)  
 
 ⭐️ *Let’s collaborate and create something amazing together!*  
   
@@ -79,7 +77,8 @@ I design modern, intuitive interfaces for web & mobile apps.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=touhidhimuiux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=touhidhimuiux&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=touhidhimuiux&theme=dark&margin-w=15)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
