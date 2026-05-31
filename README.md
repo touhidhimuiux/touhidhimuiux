@@ -20,6 +20,9 @@
 <!--![GitHub Snake SVG](https://raw.githubusercontent.com/touhidarahimu/touhidarahimu/output/github-contribution-grid-snake.svg)-->
 
 <!-- Snake Game Repo View -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/touhidhimuiux/touhidhimuiux/main/banner.png" alt="Touhid Ara Himu Banner" width="100%"/>
+</p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -27,9 +30,7 @@
 
 
 
-<p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Touhid Ara Himu Banner" width="100%"/>
-</p>
+
 
 #  👋 Hi, I’m Touhid Ara Himu  
 
