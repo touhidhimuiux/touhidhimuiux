@@ -21,7 +21,7 @@
 
 <!-- Snake Game Repo View -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/touhidhimuiux/touhidhimuiux/main/banner.png" alt="Touhid Ara Himu Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/touhidhimuiux/touhidhimuiux/main/banner_01.png" alt="Touhid Ara Himu Banner" width="100%"/>
 </p>
 
 <div align="center">
