@@ -104,13 +104,7 @@ I am open to **research collaborations, academic opportunities, and internationa
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteType=programming)
 
 
-## 📈 Contribution Activity  
+<!---## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=touhidhimuiux&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <em>Consistent contributions in AI, HCI, and intelligent system development.</em>
-</p>
+<img src="https://streak-stats.demolab.com?user=touhidhimuiux&theme=dark" alt="GitHub Streak Stats" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
