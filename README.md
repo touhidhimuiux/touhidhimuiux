@@ -34,9 +34,9 @@
 
 # 👋 Hi, I’m Touhid Ara Himu  
 
-I am a **Final-Year Computer Science & Engineering student** from **Bangladesh**, currently working as a **Research Member @ Quick Research Group** and **HXRLabs Scholar**. I am deeply passionate about building **human-centered, ethical, and intelligent systems** that bridge the gap between people and technology.
+I am a **Final-Year Computer Science & Engineering student** from **Bangladesh**, currently working as a **Research Member @ Quick Research Group** and **HXRLabs Scholar**. I am deeply passionate about building **human-centered, Machine learning & Deep learning** that bridge the gap between people and technology.
 
-My core focus lies in **Human-Centered AI, Cybersecurity, and Intelligent Systems**, with a strong interest in designing technologies that are not only powerful but also **secure, transparent, and user-friendly**.I enjoy exploring and developing solutions in areas such as **Machine Learning, Human-AI Interaction, Network Security, and Healthcare Technology**. Alongside research, I also work on **Web Development and UI/UX Design**, where I focus on creating **clean, responsive, and user-centered digital experiences**.I have practical experience delivering **real-world web and UI/UX projects**, transforming ideas into functional applications through both academic and local client-based work.
+My core focus lies in **Human-Centered AI, Machine learning & Deep learning**, with a strong interest in designing technologies that are not only powerful but also **secure, transparent, and user-friendly**.I enjoy exploring and developing solutions in areas such as **Machine Learning, Human-AI Interaction,  and Healthcare Technology**. Alongside research, I also work on **Web Development and UI/UX Design**, where I focus on creating **clean, responsive, and user-centered digital experiences**.I have practical experience delivering **real-world web and UI/UX projects**, transforming ideas into functional applications through both academic and local client-based work.
 
 
 
@@ -45,7 +45,7 @@ My core focus lies in **Human-Centered AI, Cybersecurity, and Intelligent System
 - 🎓 **Final-Year Computer Science & Engineering student** from Bangladesh 🇧🇩  
 - 🔬 **Research Member @ Quick Research Group** | **HXRLabs Scholar (Fully/High Merit Scholarship)**  
 - 🤖 Focused on **Artificial Intelligence, Machine Learning, and Human-Computer Interaction (HCI) for Intelligent Systems**  
-- 🧠 Passionate about designing systems that are **human-centered, ethical, explainable, and trustworthy**  
+- 🧠 Passionate about designing systems that are **human-centered explainable, and trustworthy**  
 - 📊 Research interests include **Machine Learning, Deep Learning, Human-AI Interaction & Healthcare AI Systems**  
 - 💡 Interested in **AI-driven research, Machine Learning, Human-Computer Interaction, and intelligent decision systems for real-world applications**  
 - 💻 Experienced in **Frontend Development & UI/UX Design**, building **user-centered real-world applications**  
@@ -64,8 +64,6 @@ My core focus lies in **Human-Centered AI, Cybersecurity, and Intelligent System
 - 🏥 AI in Healthcare & Digital Health Systems  
 - 🧩 Explainable AI  & Trustworthy AI Systems  
 - ⚙️ Intelligent Systems & Applied Artificial Intelligence  
-
-
 
 ## 🌍 Research Vision  
 
