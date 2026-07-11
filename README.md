@@ -34,49 +34,58 @@
 
 # 👋 Hi, I’m Touhid Ara Himu  
 
-I am a **Final-Year Computer Science & Engineering student** from **Bangladesh**, currently working as a **Research Member @ Quick Research Group** and **HXRLabs Scholar**. I am deeply passionate about building **human-centered, Machine learning & Deep learning** that bridge the gap between people and technology.
+I am a **Final-Year Computer Science & Engineering student** from **Bangladesh**, currently serving as a **Research Member at Quick Research Group** and an **HXRLabs Scholar**. I am passionate about developing **human-centered AI systems** that solve real-world problems and improve people's lives. I am actively seeking **research collaborations** and **fully funded research-based MSc and PhD opportunities** aligned with my research interests.
 
-My core focus lies in **Human-Centered AI, Machine learning & Deep learning**, with a strong interest in designing technologies that are not only powerful but also **secure, transparent, and user-friendly**.I enjoy exploring and developing solutions in areas such as **Machine Learning, Human-AI Interaction,  and Healthcare Technology**. Alongside research, I also work on **Web Development and UI/UX Design**, where I focus on creating **clean, responsive, and user-centered digital experiences**.I have practical experience delivering **real-world web and UI/UX projects**, transforming ideas into functional applications through both academic and local client-based work.
+My research interests include **Human–Computer Interaction (HCI), Computer Vision, Machine Learning, Deep Learning, and AI for Healthcare**. I am particularly interested in building AI systems that are **trustworthy, explainable, secure, and user-centered**, making advanced technology more accessible and beneficial for everyone.
 
-
-
-## 👨‍💻 About Me  
-
-- 🎓 **Final-Year Computer Science & Engineering student** from Bangladesh 🇧🇩  
-- 🔬 **Research Member @ Quick Research Group** | **HXRLabs Scholar (Fully/High Merit Scholarship)**  
-- 🤖 Focused on **Artificial Intelligence, Machine Learning, and Human-Computer Interaction (HCI) for Intelligent Systems**  
-- 🧠 Passionate about designing systems that are **human-centered explainable, and trustworthy**  
-- 📊 Research interests include **Machine Learning, Deep Learning, Human-AI Interaction & Healthcare AI Systems**  
-- 💡 Interested in **AI-driven research, Machine Learning, Human-Computer Interaction, and intelligent decision systems for real-world applications**  
-- 💻 Experienced in **Frontend Development & UI/UX Design**, building **user-centered real-world applications**  
-- 🌐 Completed multiple **real-world UI/UX and web development projects** for local clients and practical use cases  
-- 🔬 Actively engaged in **research-oriented learning, academic collaboration, and interdisciplinary exploration**  
-- 🧪 Aspiring to contribute to **international AI research labs and cross-disciplinary research teams**  
-- 🎯 Career goal: Pursue a **fully funded Master’s (research-based) or PhD in Artificial Intelligence / Human-Computer Interaction**, focusing on **AI safety, intelligent systems, and human-centered computing**
+Alongside research, I enjoy developing intelligent applications and interactive systems while expanding my knowledge of AI and emerging technologies. I also have experience in **Web Development** and **UI/UX Design**, where I create **responsive, accessible, and user-friendly digital experiences**. Through academic projects and real-world client work, I have gained practical experience in transforming research ideas into functional applications.
 
 
 
-## 🔬 Research Interests  
+## 👨‍💻 About Me
 
-- 🤖 Artificial Intelligence (AI) & Machine Learning (ML)  
-- 🧠 Human-Computer Interaction (HCI) & Human-Centered AI (HCAI)  
-- 📊 Deep Learning & Intelligent Decision Systems  
-- 🏥 AI in Healthcare & Digital Health Systems  
-- 🧩 Explainable AI  & Trustworthy AI Systems  
-- ⚙️ Intelligent Systems & Applied Artificial Intelligence  
-
-## 🌍 Research Vision  
-
-My goal is to contribute to **secure, explainable, and human-centered AI systems** that improve decision-making and trust in real-world applications especially in **healthcare, intelligent systems, and human-centered computing**.
-
-I aim to work in **research labs and interdisciplinary AI teams** where I can contribute to advancing **Machine Learning, Human-AI Interaction, and Trustworthy AI systems**.
-
+- 🎓 **Final-Year B.Sc. in Computer Science & Engineering student** from Bangladesh 🇧🇩
+- 🔬 **Undergraduate Researcher** | **Research Member @ Quick Research Group** | **HXRLabs Scholar**
+- 🧠 Research interests: **Human–Computer Interaction (HCI), Computer Vision, Machine Learning, Deep Learning, and AI for Healthcare**
+- 🤖 Passionate about developing **human-centered, explainable, trustworthy, and responsible AI systems** that solve real-world problems
+- 👁️ Interested in designing intelligent technologies that improve **healthcare, accessibility, and human-AI interaction**
+- 📚 Continuously learning advanced AI, computer vision, HCI, and research methodologies through academic and independent research
+- 💻 Experienced in **Web Development** and **UI/UX Design**, creating responsive and user-centered applications
+- 🌐 Built multiple real-world web and UI/UX projects through academic work and local client collaborations
+- 🤝 Open to **research collaborations**, **undergraduate research opportunities**, and **AI open-source projects**
+- 🧪 Aspiring to contribute to **international research labs** and interdisciplinary AI research
+- 🎯 Career goal: Pursue a **fully funded research-based MSc and PhD** in **Human–Computer Interaction (HCI), Computer Vision, or AI for Healthcare**, and contribute to impactful research in **Human-Centered AI**.
 
 
-## 📫 Connect With Me  
 
-I am open to **research collaborations, academic opportunities, and international research programs** in **Artificial Intelligence, Machine Learning, Human-Computer Interaction, and Human-Centered Computing**.
+## 🔬 Research Interests
 
+- 🧠 Human–Computer Interaction (HCI) & Human-Centered AI
+- 👁️ Computer Vision
+- 🤖 Machine Learning & Deep Learning
+- 🏥 AI for Healthcare
+- 🔍 Explainable AI (XAI) & Trustworthy AI
+
+
+
+## 🌍 Research Vision
+
+My research vision is to develop **human-centered, explainable, and trustworthy AI systems** that address real-world challenges and improve the way people interact with intelligent technologies. I am particularly interested in applying AI to **healthcare, computer vision, and interactive systems** to create solutions that are reliable, ethical, and accessible.
+
+I aspire to contribute to **international research labs** and interdisciplinary research teams, advancing research in **Human–Computer Interaction, Computer Vision, AI for Healthcare, and Human-Centered AI**.
+
+
+## 📫 Open to Collaboration
+
+I am open to:
+
+- 🤝 Research Collaborations
+- 🎓 Fully Funded Research-Based MSc & PhD Opportunities
+- 🔬 Research Internships
+- 🌍 International Research Programs
+- 💻 Open-Source AI Research Projects
+
+If your research interests align with **Human–Computer Interaction (HCI), Computer Vision, Machine Learning, Deep Learning, AI for Healthcare, or Human-Centered AI**, I'd be happy to connect and collaborate.
 - 📧 **Email:** [touhidarahimu@gmail.com](mailto:touhidarahimu@gmail.com)  
 - 🌐 **Portfolio Website:** [Himu Portfolio](https://touhidarahimu.vercel.app/)  
 - 💼 **LinkedIn Profile:** [Touhid Ara Himu](https://www.linkedin.com/in/touhid-ara-himu-794891298/)  
