@@ -20,13 +20,15 @@
 <!--![GitHub Snake SVG](https://raw.githubusercontent.com/touhidarahimu/touhidarahimu/output/github-contribution-grid-snake.svg)-->
 
 <!-- Snake Game Repo View -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/touhidhimuiux/touhidhimuiux/main/banner_02.png" alt="Touhid Ara Himu Banner" width="100%"/>
-</p>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/touhidhimuiux/touhidhimuiux/main/Touhid%20Ara%20Himu%20Banner.png"
+    alt="Touhid Ara Himu Banner"
+    width="100%"
+  />
+</p>
 
 
 
