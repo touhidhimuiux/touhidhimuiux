@@ -36,21 +36,24 @@
 <h1 align="center">Hi, I'm Touhid Ara Himu 👋</h1>
 
 <h3 align="center">
-  Undergraduate Researcher | Computer Vision | Medical Image Analysis | Deep Learning
+  Undergraduate Researcher | Computer Vision | Medical Image Analysis | Deep Learning | Explainable AI
 </h3>
 
 <p align="center">
-  <a href="https://touhidarahimu.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://touhidarahimu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/touhidhimuiux/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/touhidhimuiux/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:touhidarahimu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://orcid.org/">
-    <img src="https://img.shields.io/badge/ORCID-Research-00A86B?style=flat-square&logo=orcid&logoColor=white"/>
+  <a href="https://orcid.org/0009-0006-6033-7432" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0006--6033--7432-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/Touhid-Himu" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
 </p>
 
@@ -62,13 +65,13 @@
 
 I am **Touhid Ara Himu**, a final-year **B.Sc. CSE student at North South University, Bangladesh**. My main interests are **Computer Vision, Medical Image Analysis and AI for Healthcare**.I am a **Quick Research Group Member** and an **HXRLabs Scholar**. I work with **Deep Learning, Image Processing, and Machine Learning** and enjoy building models, conducting experiments and exploring practical research problems.
 
-- 🏅 **Scholarship:** HXRLabs Scholar (99% Healthcare UX Certificate Scholarship)
-<!---- 🔬 **Research Project:** [ASTRA-Inspired Visual Attacks on ChartQA](YOUR_REPOSITORY_LINK) -->
-- 🌍 **Location:** Bangladesh
-- 🤝 **Open to:** Research Collaborations and Internships
-- 🚀 **Future Goal:** Pursue fully funded Research-based Master's and PhD opportunities in Computer Vision and Medical AI.
+- 🎓 **Scholarship:** HXRLabs Scholar — 99% Healthcare UX Certificate Scholarship
+- 📍 **Location:** Bangladesh
+- 🤝 **Open to:** Research Collaborations, Academic Partnerships & Research Internships
+- 🔬 **Research Goal:** Pursuing fully funded, research-based Master's and PhD opportunities in Medical AI, Computer Vision & Deep Learning.
+- 🏛️ **Academic Engagement:** Microsoft Learn Student Ambassador (Beta, 2024–2025) · NSU Computer & Engineering Club — Sub-Executive (2024–2025)
+   <!---- 🔬 **Research Project:** [ASTRA-Inspired Visual Attacks on ChartQA](YOUR_REPOSITORY_LINK) -->
 
-**Academic Engagement:** Microsoft Learn Student Ambassador (Beta, 2024–2025) · NSU Computer & Engineering Club Sub-Executive (2024–2025)
 
 
 
